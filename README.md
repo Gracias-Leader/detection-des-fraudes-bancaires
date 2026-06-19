@@ -35,7 +35,7 @@ En détection de fraude, l'exactitude globale (*Accuracy*) est trompeuse. Ce pro
 | **Isolation Forest** | *À compléter %* | *À compléter %* | *À compléter %* |
 
 ## 📁 Structure du Répertoire
-```text
+``text
 ├── farudes_bancaires.ipynb   # Notebook principal (Data Prep, EDA, Modélisation)
 ├── README.md                 # Description du projet et livrables
 └── donnees/                  # Répertoire contenant le dataset (si applicable)
